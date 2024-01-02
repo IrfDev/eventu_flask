@@ -34,3 +34,12 @@ Display reviews and ratings on product pages.
 
 Manage users, products, orders, categories, and other site settings.
 View sales reports, popular products, and user activity.
+
+# Technology stack
+
+- Backend: Flask (Python web framework).
+- Database: PostgreSQL.
+- Frontend: HTML, CSS, JavaScript (optionally with a front-end framework like React or Vue.js).
+- Payment Processing: Integration with services like Stripe or PayPal.
+- Hosting: Cloud providers like AWS, Heroku, or DigitalOcean.
+- Version Control: Git and GitHub.
